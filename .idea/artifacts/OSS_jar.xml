@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="OSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OSS_jar</output-path>
+    <root id="archive" name="OSS.jar">
+      <element id="module-output" name="Task 7. Covert Channel OSS" />
+    </root>
+  </artifact>
+</component>
