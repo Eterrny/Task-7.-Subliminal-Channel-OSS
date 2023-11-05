@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57ae9339-6908-489f-b3fa-2b1783e55777" name="Changes" comment="" />
+    <list default="true" id="57ae9339-6908-489f-b3fa-2b1783e55777" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/test/OSSServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task 7. Covert Channel OSS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Task 7. Covert Channel OSS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Alice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OSSChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OSSChannel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OSSService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OSSService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SHA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Signature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Signature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Wolter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Wolter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XkR6N3TKR9UZZsx5Ku9smbq5Up" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,10 +40,79 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "D:/Учеба/5.1 курс/Криптографические протоколы/Task 7. Subliminal Channel OSS",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OSSServiceTest">
+    <configuration name="OSSServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task 7. Covert Channel OSS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OSSServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSSServiceTest.badParameters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task 7. Covert Channel OSS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OSSServiceTest" />
+      <option name="METHOD_NAME" value="badParameters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSSServiceTest.checkCoprime" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task 7. Covert Channel OSS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OSSServiceTest" />
+      <option name="METHOD_NAME" value="checkCoprime" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OSSServiceTest.makeWolterBad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Task 7. Covert Channel OSS" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OSSServiceTest" />
+      <option name="METHOD_NAME" value="makeWolterBad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OSSServiceTest" />
+        <item itemvalue="JUnit.OSSServiceTest.checkCoprime" />
+        <item itemvalue="JUnit.OSSServiceTest.makeWolterBad" />
+        <item itemvalue="JUnit.OSSServiceTest.badParameters" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +123,16 @@
       <updated>1699170920767</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
